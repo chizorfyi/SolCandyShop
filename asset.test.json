@@ -1,0 +1,25 @@
+{
+  "program": {
+    "uuid": "4tT4gk",
+    "config": "Cq7c8XgNXRg3csPijsrNXo5a83p15bkWHFdGibgKaqW9",
+    "set_start_date": "1630422000000",
+    "candy machine pubkey": "Ea7QBHfTCXhy2k72wkoF36aK3hzWAtxpdGr5omYxvGX4"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/xLMdiyVoI5tLFLjrM49jrY_QORHJnntgEij5Rnhs3j4",
+      "name": "some nft",
+      "onChain": true
+    },
+    "1": {
+      "link": "https://arweave.net/xLGOq6JDXpJjZgZ_bBZc3pJbsEsWBwQxKhZ2NH7Hwto",
+      "name": "some nft",
+      "onChain": true
+    },
+    "2": {
+      "link": "https://arweave.net/1Dd8MTvk_h8s9cb8UKJaWnvxvdXqcGOuS7lqkfQuE0w",
+      "name": "some nft",
+      "onChain": true
+    }
+  }
+}
